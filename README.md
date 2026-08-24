@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MaanyaNS/Leetcode/tree/main/0136-single-number/) | Easy |
+| [0189-rotate-array](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MaanyaNS/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/MaanyaNS/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MaanyaNS/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0189-rotate-array](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MaanyaNS/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/MaanyaNS/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/MaanyaNS/Leetcode/tree/main/0263-ugly-number/) | Easy |
@@ -59,6 +61,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MaanyaNS/Leetcode/tree/main/0202-happy-number/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 |  |
