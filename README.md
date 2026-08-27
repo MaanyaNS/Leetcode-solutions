@@ -37,6 +37,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MaanyaNS/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
@@ -50,6 +51,7 @@
 | [0263-ugly-number](https://github.com/MaanyaNS/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/MaanyaNS/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/MaanyaNS/Leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0367-valid-perfect-square](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/MaanyaNS/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/MaanyaNS/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MaanyaNS/Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
