@@ -18,6 +18,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/MaanyaNS/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -42,6 +43,7 @@
 | [0287-find-the-duplicate-number](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MaanyaNS/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
