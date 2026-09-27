@@ -88,6 +88,7 @@
 | [0001-two-sum](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/MaanyaNS/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
@@ -151,6 +152,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MaanyaNS/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Heap (Priority Queue)
@@ -203,6 +205,7 @@
 | [0058-length-of-last-word](https://github.com/MaanyaNS/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MaanyaNS/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
