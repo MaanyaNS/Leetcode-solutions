@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/MaanyaNS/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -89,6 +90,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/MaanyaNS/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/MaanyaNS/Leetcode/tree/main/0202-happy-number/) | Easy |
@@ -183,6 +185,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/MaanyaNS/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
