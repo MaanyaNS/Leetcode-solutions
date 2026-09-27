@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/MaanyaNS/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MaanyaNS/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/MaanyaNS/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MaanyaNS/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MaanyaNS/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Heap (Priority Queue)
